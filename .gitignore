@@ -1,0 +1,9 @@
+docs/build/
+tests/data/test_data2.txt
+env*
+.vscode/
+__pycache__
+output_file.txt
+*.pyc
+tests/.coverage
+.pytest_cache
