@@ -1,3 +1,4 @@
+[![codecov](https://codecov.io/gh/UCL/cpu-ex/branch/main/graph/badge.svg?token=KPBVLWRJ3O)](https://codecov.io/gh/UCL/cpu-ex)
 # CPU-EX
 CPU-EX is short for CPU-Example. This repo contains a sample python program which reads data from a text file stored in input folder, process it and store the resultant text file in the output directory. 
 
