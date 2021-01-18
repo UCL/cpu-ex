@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """This module gives a simple example to demonstrate how to structure
 the project to effectively work with any third party data. That includes
 reading data from input file and writing results to output file. An input folder with a small
