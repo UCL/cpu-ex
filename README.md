@@ -6,4 +6,4 @@ This sample program is used by [scikit-surgerydocker](https://github.com/UCL/sci
 
 
 <!-- ## Documentation
-The documentation of the sample program can be found on [readthedocs](https://scikit-surgerydocker.readthedocs.io/en/latest/). --> -->
+The documentation of the sample program can be found on [readthedocs](https://scikit-surgerydocker.readthedocs.io/en/latest/). -->
