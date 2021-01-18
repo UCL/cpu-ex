@@ -59,5 +59,5 @@ def write_file(contents, file_path, file_name):
 
 
 if __name__ == '__main__': # pragma: no cover
-   contents = read_file(file_path='./input/', file_name='input_file.txt')
-   write_file(contents, file_path='./output/', file_name='output_file.txt')
+   contents = read_file(file_path='../input_data/', file_name='input_file.txt')
+   write_file(contents, file_path='../output_data/', file_name='output_file.txt')
